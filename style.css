@@ -1,0 +1,34 @@
+body{
+    width: 1200px;
+    margin: auto;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+
+}
+
+.oo{
+    width: 211px;
+    height: 38px;
+}
+
+.poisk{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    gap: 249px;
+    width: 427px;
+    height: 52px;
+    background: #F7F7F8;
+    border-radius: 10px;
+
+}
+
+.knopochka{
+}
